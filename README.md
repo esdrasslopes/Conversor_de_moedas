@@ -15,12 +15,12 @@ Este é um conversor de moedas desenvolvido em React Native que consome a API [A
 
 ## 🔧 Como Usar
 
-# Clone o repositório:
-# Acesse a pasta do projeto:
-# Instale as dependências:
+#### Clone o repositório:
+#### Acesse a pasta do projeto:
+#### Instale as dependências:
 npm install
-# ou
+#### ou
 yarn install
 
-# Execute o aplicativo:
+## Execute o aplicativo:
 expo start
