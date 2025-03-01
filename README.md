@@ -14,13 +14,9 @@ Este é um conversor de moedas desenvolvido em React Native que consome a API [A
 - Interface amigável e responsiva
 
 ## 🔧 Como Usar
-```sh
+
 # Clone o repositório:
-
-
 # Acesse a pasta do projeto:
-
-
 # Instale as dependências:
 npm install
 # ou
