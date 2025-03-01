@@ -16,10 +16,10 @@ Este é um conversor de moedas desenvolvido em React Native que consome a API [A
 ## 🔧 Como Usar
 ```sh
 # Clone o repositório:
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone https://github.com/esdrasslopes/Conversor_de_moedas.git
 
 # Acesse a pasta do projeto:
-cd conversor-moedas
+cd Conversor_de_moedas
 
 # Instale as dependências:
 npm install
